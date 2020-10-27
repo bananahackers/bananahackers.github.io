@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "name": "test_screensharing",
+  "description": "Testing screen sharing on KaiOS",
+  "launch_path": "/test_screensharing.html",
+  "type": "hosted",
+  "permissions": {
+    "video-capture":""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+ }

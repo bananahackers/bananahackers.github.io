@@ -11,13 +11,13 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Clone
-        run: 'git clone https://gitlab.com/banana-hackers/store-db.git $GITHUB_WORKSPACE/store-db'
+        run: |
+          git clone https://gitlab.com/banana-hackers/store-db.git $GITHUB_WORKSPACE/store-db
+          cd $GITHUB_WORKSPACE/store-db
+          git log -1 --date-order --format=format:'%ct' > last_commit_time.txt
       - name: Debugging
         run: |
-          ls
-          ls store-db
-          echo $GITHUB_WORKSPACE
-          echo $PWD
+          echo No debugging... moo moo
       - name: Generate
         uses: ./.github/actions/generator
       - name: Deploy

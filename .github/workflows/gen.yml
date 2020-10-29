@@ -10,8 +10,13 @@ jobs:
     name: Clone
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v2
       - name: Clone
         run: 'git clone https://gitlab.com/banana-hackers/store-db.git $GITHUB_WORKSPACE/store-db'
+      - name: Debugging
+        run: 'ls'
+        run: 'echo $GITHUB_WORKSPACE'
+        run: 'echo $PWD'
   build:
     name: Build
     runs-on: ubuntu-latest

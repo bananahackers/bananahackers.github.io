@@ -4,5 +4,6 @@ runs:
   using: 'composite'
   steps:
     - run: npm ci
+runs:
   using: 'node12'
   main: 'index.js'

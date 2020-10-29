@@ -208,6 +208,7 @@ async function main() {
     console.log("Processing categories:")
     const CATEGORIES = join(workspace, 'categories')
     const cfiles = await fs.readdir(CATEGORIES)
+    console.log(cfiles);
 
     let categories = {}
 

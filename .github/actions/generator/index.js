@@ -6,6 +6,8 @@ const { http, https } = require('follow-redirects');
 
 const HostPrefix = "bananahackers.github.io/"
 const workspace = join(process.env.GITHUB_WORKSPACE, "store-db");
+console.log(workspace);
+fs.readdir(workspace, console.log);
 const PUBLIC = process.env.GITHUB_WORKSPACE; 
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']
@@ -198,8 +200,6 @@ function paths_to_downloaded_screenshots(appSlug, urls) {
 }
 
 async function main() {
-    fs.readdir(workspace, console.log);
-    fs.readdir(join(workspace, "./store-db"), console.log);
     let success = true
 
     await fs.ensureDir(PUBLIC)

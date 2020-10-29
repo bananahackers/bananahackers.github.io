@@ -206,7 +206,7 @@ async function main() {
     await fs.ensureDir(ICONS_FOLDER)
 
     console.log("Processing categories:")
-    const CATEGORIES = join(workspace, './categories')
+    const CATEGORIES = join(workspace, 'categories')
     const cfiles = await fs.readdir(CATEGORIES)
 
     let categories = {}
@@ -230,7 +230,7 @@ async function main() {
 
     console.log("Processing apps:")
 
-    const APPS = join(workspace, './apps')
+    const APPS = join(workspace, 'apps')
     const afiles = await fs.readdir(APPS)
 
     let apps = []

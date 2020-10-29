@@ -5,7 +5,8 @@ const isUrl = require('is-url-superb')
 const { http, https } = require('follow-redirects');
 
 const HostPrefix = "bananahackers.github.io/store-db/"
-const PUBLIC = join(__dirname, '../public')
+const workspace = join(process.env.GITHUB_WORKSPACE, "store-db");
+const PUBLIC = process.env.GITHUB_WORKSPACE; 
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']
 const ALLOWED_IMAGE_EXTENTIONS = ['.png','.jpeg', '.jpg', '.gif', '.svg']
@@ -204,7 +205,7 @@ async function main() {
     await fs.ensureDir(ICONS_FOLDER)
 
     console.log("Processing categories:")
-    const CATEGORIES = join(__dirname, '../categories')
+    const CATEGORIES = join(workspace, '../categories')
     const cfiles = await fs.readdir(CATEGORIES)
 
     let categories = {}
@@ -228,7 +229,7 @@ async function main() {
 
     console.log("Processing apps:")
 
-    const APPS = join(__dirname, '../apps')
+    const APPS = join(workspace, '../apps')
     const afiles = await fs.readdir(APPS)
 
     let apps = []
@@ -272,7 +273,7 @@ async function main() {
 
     await fs.writeFile(join(PUBLIC, 'lastUpdate.txt'), String(generated_at))
 
-    await fs.copyFile(join(__dirname, 'schema.json'), join(PUBLIC, 'schema.json'))
+    await fs.copyFile(join(workspace, 'schema.json'), join(PUBLIC, 'schema.json'))
 
     console.log("waiting for downloads to complete...")
     await Promise.all(download_queu);

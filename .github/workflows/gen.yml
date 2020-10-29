@@ -14,9 +14,10 @@ jobs:
       - name: Clone
         run: 'git clone https://gitlab.com/banana-hackers/store-db.git $GITHUB_WORKSPACE/store-db'
       - name: Debugging
-        run: 'ls'
-        run: 'echo $GITHUB_WORKSPACE'
-        run: 'echo $PWD'
+        run: |
+          ls
+          echo $GITHUB_WORKSPACE
+          echo $PWD
   build:
     name: Build
     runs-on: ubuntu-latest

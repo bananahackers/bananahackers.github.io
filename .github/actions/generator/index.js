@@ -201,9 +201,8 @@ function paths_to_downloaded_screenshots(appSlug, urls) {
 async function main() {
     let success = true
 
-    console.log(await fs.readdir(join(workspace, "categories")));
     await fs.ensureDir(PUBLIC)
-    await fs.emptyDir(PUBLIC)
+    //await fs.emptyDir(PUBLIC)
     await fs.ensureDir(ICONS_FOLDER)
 
     console.log("Processing categories:")

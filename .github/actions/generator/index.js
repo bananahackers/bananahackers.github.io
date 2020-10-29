@@ -6,7 +6,7 @@ const { http, https } = require('follow-redirects');
 
 const HostPrefix = "bananahackers.github.io/"
 const workspace = join(process.env.GITHUB_WORKSPACE, "store-db");
-fs.readdir(join(workspace, "categories"), console.log);
+console.log(await fs.readdir(join(workspace, "categories")));
 const PUBLIC = process.env.GITHUB_WORKSPACE; 
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']
@@ -208,7 +208,6 @@ async function main() {
     console.log("Processing categories:")
     const CATEGORIES = join(workspace, 'categories')
     const cfiles = await fs.readdir(CATEGORIES)
-    console.log(cfiles);
 
     let categories = {}
 

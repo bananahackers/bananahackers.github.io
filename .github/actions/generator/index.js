@@ -6,8 +6,7 @@ const { http, https } = require('follow-redirects');
 
 const HostPrefix = "bananahackers.github.io/"
 const workspace = join(process.env.GITHUB_WORKSPACE, "store-db");
-console.log(workspace);
-fs.readdir(workspace, console.log);
+fs.readdir(join(workspace, "categories"), console.log);
 const PUBLIC = process.env.GITHUB_WORKSPACE; 
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']

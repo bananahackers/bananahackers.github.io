@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Clone
-        run: 'git clone https://gitlab.com/banana-hackers/store-db.git'
+        run: 'git clone https://gitlab.com/banana-hackers/store-db.git $GITHUB_WORKSPACE/store-db'
   build:
     name: Build
     runs-on: ubuntu-latest

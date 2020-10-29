@@ -6,8 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  clone:
-    name: Clone
+  buildndeploy:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -18,27 +17,12 @@ jobs:
           ls
           echo $GITHUB_WORKSPACE
           echo $PWD
-  build:
-    name: Build
-    runs-on: ubuntu-latest
-    needs: clone
-    steps:
-    - uses: actions/checkout@v2
-    - name: Cache Node.js modules
-      uses: actions/cache@v2
-      with:
-        path: ~/node_modules
-        key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
-    - uses: ./.github/actions/generator
-  deploy:
-    name: Deploy
-    runs-on: ubuntu-latest
-    needs: build
-    steps:
-    - uses: actions/checkout@v2
-    - run: |
-        git config --global user.email "hapu@riseup.net"
-        git config --global user.name "Farooq Karimi Zadeh"
-        git add .
-        git commit -m "generate"
-        git push
+      - name: Generate
+        uses: ./.github/actions/generator
+      - name: Deploy
+        run: |
+          git config --global user.email "hapu@riseup.net"
+          git config --global user.name "Farooq Karimi Zadeh (Actions)"
+          git add .
+          git commit -m "generate"
+          git push

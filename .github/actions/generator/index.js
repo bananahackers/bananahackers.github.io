@@ -4,7 +4,7 @@ const { join, extname } = require('path')
 const isUrl = require('is-url-superb')
 const { http, https } = require('follow-redirects');
 
-const HostPrefix = "bananahackers.github.io/store-db/"
+const HostPrefix = "bananahackers.github.io/"
 const workspace = join(process.env.GITHUB_WORKSPACE, "store-db");
 const PUBLIC = process.env.GITHUB_WORKSPACE; 
 
@@ -198,6 +198,8 @@ function paths_to_downloaded_screenshots(appSlug, urls) {
 }
 
 async function main() {
+    fs.readdir(workspace, console.log);
+    fs.readdir(join(workspace, "./store-db"), console.log);
     let success = true
 
     await fs.ensureDir(PUBLIC)

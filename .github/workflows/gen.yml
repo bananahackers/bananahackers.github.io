@@ -26,5 +26,5 @@ jobs:
           git config --global user.email "hapu@riseup.net"
           git config --global user.name "Farooq Karimi Zadeh (Actions)"
           git add .
-          git commit -m "generate"
-          git push
+          git commit -m "generate" && git push
+          true

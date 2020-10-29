@@ -15,6 +15,7 @@ jobs:
       - name: Debugging
         run: |
           ls
+          ls store-db
           echo $GITHUB_WORKSPACE
           echo $PWD
       - name: Generate

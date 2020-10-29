@@ -4,7 +4,7 @@ const { join, extname } = require('path')
 const isUrl = require('is-url-superb')
 const { http, https } = require('follow-redirects');
 
-const HostPrefix = "banana-hackers.gitlab.io/store-db/"
+const HostPrefix = "bananahackers.github.io/store-db/"
 const PUBLIC = join(__dirname, '../public')
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']

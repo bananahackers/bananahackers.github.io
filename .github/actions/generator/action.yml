@@ -1,0 +1,5 @@
+name: 'Generator'
+description: 'Generate data.json'
+runs:
+  using: 'node14'
+  main: 'index.js'

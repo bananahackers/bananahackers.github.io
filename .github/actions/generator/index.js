@@ -202,9 +202,9 @@ async function main() {
     let success = true
     
     // First let's see if the Gitlab repo has any new commit
-    const GL_LAST_COMMIT = parseInt(await fs.readFile(join(workspace, "last_commit_time.txt"), "utf8")))
-    const GH_LAST_COMMIT = parseInt(await fs.readFile(join(PUBLIC, "lastUpdated.txt"))) / 1000
-    if (GL_LAST_COMMIT <= GH_LAST_COMMIT)
+    var GL_LAST_COMMIT = await fs.readFile(join(workspace, "last_commit_time.txt"), "utf8"))
+    var GH_LAST_COMMIT = await fs.readFile(join(PUBLIC, "lastUpdated.txt"))
+    if (parseInt(GL_LAST_COMMIT) <= parseInt(GH_LAST_COMMIT) / 1000)
         return true
     
     await fs.ensureDir(PUBLIC)

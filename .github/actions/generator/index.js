@@ -7,7 +7,7 @@ const { http, https } = require('follow-redirects');
 const HostPrefix = "bananahackers.github.io/"
 const workspace = join(process.env.GITHUB_WORKSPACE, "store-db");
 
-const PUBLIC = process.env.GITHUB_WORKSPACE; 
+const PUBLIC = process.env.GITHUB_WORKSPACE;
 
 const APP_TYPES = ['weblink', 'hosted', 'packaged', 'privileged', 'certified', 'root']
 const ALLOWED_IMAGE_EXTENTIONS = ['.png','.jpeg', '.jpg', '.gif', '.svg']
@@ -200,7 +200,13 @@ function paths_to_downloaded_screenshots(appSlug, urls) {
 
 async function main() {
     let success = true
-
+    
+    // First let's see if the Gitlab repo has any new commit
+    const GL_LAST_COMMIT = parseInt(await fs.readFile(join(workspace, "last_commit_time.txt"), "utf8")))
+    const GH_LAST_COMMIT = parseInt(await fs.readFile(join(PUBLIC, "lastUpdated.txt"))) / 1000
+    if (GL_LAST_COMMIT <= GH_LAST_COMMIT)
+        return true
+    
     await fs.ensureDir(PUBLIC)
     //await fs.emptyDir(PUBLIC)
     await fs.ensureDir(ICONS_FOLDER)

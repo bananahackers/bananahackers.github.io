@@ -1,8 +1,8 @@
 name: Generate from mirror
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+#  schedule:
+#    - cron: '*/5 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -17,10 +17,19 @@ jobs:
     runs-on: ubuntu-latest
     needs: clone
     steps:
-    - uses: actions/checkout@v2
     - name: Cache Node.js modules
       uses: actions/cache@v2
       with:
         path: ~/node_modules
         key: ${{ runner.OS }}-node-${{ hashFiles('**/package-lock.json') }}
     - uses: ./.github/actions/generator
+  deploy:
+    name: Deploy
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+    - uses: actions/checkout@v2
+    - run: |
+        git add .
+        git commit -m "generate"
+        git push

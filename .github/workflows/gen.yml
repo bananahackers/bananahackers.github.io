@@ -22,6 +22,7 @@ jobs:
         uses: ./.github/actions/generator
       - name: Deploy
         run: |
+          cd $GITHUB_WORKSPACE
           git config --global user.email "hapu@riseup.net"
           git config --global user.name "Farooq Karimi Zadeh (Actions)"
           git add .

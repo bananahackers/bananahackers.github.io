@@ -17,6 +17,7 @@ jobs:
           git log -1 --date-order --format=format:'%ct' > last_commit_time.txt
       - name: Debugging
         run: |
+          echo $PWD
           ls
       - name: Generate
         uses: ./.github/actions/generator

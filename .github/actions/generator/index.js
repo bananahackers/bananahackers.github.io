@@ -203,7 +203,7 @@ async function main() {
     
     // First let's see if the Gitlab repo has any new commit
     var GL_LAST_COMMIT = await fs.readFile(join(workspace, "last_commit_time.txt"), "utf8")
-    var GH_LAST_COMMIT = await fs.readFile(join(PUBLIC, "lastUpdated.txt"), "utf8")
+    var GH_LAST_COMMIT = await fs.readFile(join(PUBLIC, "lastUpdate.txt"), "utf8")
     if (parseInt(GL_LAST_COMMIT) <= parseInt(GH_LAST_COMMIT) / 1000)
         return true
     

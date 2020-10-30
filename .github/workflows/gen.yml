@@ -10,8 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - name: Pull
-        run: git pull
       - name: Clone
         run: |
           git clone https://gitlab.com/banana-hackers/store-db.git $GITHUB_WORKSPACE/store-db
@@ -19,7 +17,7 @@ jobs:
           git log -1 --date-order --format=format:'%ct' > last_commit_time.txt
       - name: Debugging
         run: |
-          echo No debugging... moo moo
+          ls
       - name: Generate
         uses: ./.github/actions/generator
       - name: Deploy

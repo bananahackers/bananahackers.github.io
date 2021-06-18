@@ -13,29 +13,30 @@
 
 
 
-  <link crossorigin="anonymous" media="all" integrity="sha512-4svx7vUpMhDYjGt2DPZyPKcmc68K7swfxFTM2vc1tFRbp70kReI9RJPHKe+astjLZJALq/ww/dmoBqckmkXTcw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-e2cbf1eef5293210d88c6b760cf6723c.css" />
+  <link crossorigin="anonymous" media="all" integrity="sha512-B/jj6qcXmAwGUh/FG7mfpfFSb0lW1UpGiufFhzIeC+u3lXE5VDEJQzVxZ3gquw8xjZBNQ6CgWDSgCgjRzqPUgw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-07f8e3eaa717980c06521fc51bb99fa5.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-eVP0D3CwANEZk0NTlWaCqgnVsvA84DXehxb4i+wS3GKKdIMQegSIaheeP8lNFbA0KGSHrhNKzmuAXkCJQx4Tqg==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-7953f40f70b000d119934353956682aa.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-ncgXO/E1QqBCX+dJ6vkIJYBTGiiUacQ1lvX/XK0B2ZecI6+KfFVHuJaIJzeVJqRi9oRnsraN4UmtHWazdxx+ug==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-9dc8173bf13542a0425fe749eaf90825.css" />
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-FcPIXwhXWuHuf1HS8DQLdZT7MhbGmoAlrn7usCVd51xjw0hXN2Ajgey7ex1Ma8LXKb1oNoR2xoERaLshHJdTJQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-15c3c85f08575ae1ee7f51d2f0340b75.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-pigFwKshMT8s+7cYx99oWXt2K8MZ6HE5h7RGvsi0cEDlCGJU0lwASrQI1YTCAZY/8uvrg1Rx4+cyfym+/t+clQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-a62805c0ab21313f2cfbb718c7df6859.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-urT9eUH5z67QgeSn0QGuzKxzEY87OMzixxbl7ys7pf1cp2tl7+7raeQVTYQQEtc10RcD3N+s4dh41cIBkZ+7sA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-bab4fd79.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-DqYNCH7iUbISz3MHrZQblQWzFkyoyanHdbyINagP5PJaZUBI/ty/b5I50KRwLWqMSur/fpUltEz4XZeRHcr1Yw==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-0ea60d08.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-YufdcMb4hh5uM2JSDx/MEATxourBQILRY0+74aM14JruGbjAyRYNY7hr/9+MOvY/ItDDo5pyqG/MHZr+5zZKHg==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-62e7dd70.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-uvDUNPOd6a3Mdtl9AoeCPQ254LI4GCRd18o5/j/VskxRWx4oc7/6gSASYD+3/hrcK2FAUV9WuUCnZtuiPC1fZw==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-baf0d434.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-xvjJoISxU0GxRhz8IzuGNcKLW8ocimwz31kpata7/nJWD/QnUQfQk8rLWd+9pC0ApRmr+7xV/MfqEyMVhXRgVA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-c6f8c9a0.js"></script>
   
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-VuP/2HeHlwuxYb9sV0y9/hgN869dWIQDX2WZrvh4VAQjo6tb7PXzbBz0nOYROez0xFLxRc/u6sVU6fuYgcpN8w==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-56e3ffd8.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-5tWKSr7mhAzSh4Sx5YRFgKftdGxKwHKnOGYw5DlxjHhkQVURYFU3Bk5IMOGMKuAiJTlC3OXYM3xzGcyjzuEFQQ==" type="application/javascript" data-module-id="./chunk-animate-on-scroll.js" data-src="https://github.githubassets.com/assets/chunk-animate-on-scroll-e6d58a4a.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ct3QiK2mvpg7zor9R2psdWnNMM2K32RU4RGRB/7yA5FyZ8H4iY6SNynXc7UaJqzBx6NaReg3GsWJPwW3kgAAig==" type="application/javascript" data-module-id="./chunk-codemirror.js" data-src="https://github.githubassets.com/assets/chunk-codemirror-72ddd088.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-M6W/sGLOuJXCIkw+doDl6zl7J9q2DmqdwftQCtyEiZM/UJNGRVQdyKwI/PAMxD12se/wCx3ZcyJs9nz0o0OSVw==" type="application/javascript" data-module-id="./chunk-color-modes.js" data-src="https://github.githubassets.com/assets/chunk-color-modes-33a5bfb0.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-71HZu1T5JWqRNF9wrm2NXZAqYVvzxZ8Dvor5U5l/LuEBbGCBX57Sny60Rj+qUZZAvEBGFlNsz179DEn2HFwgVA==" type="application/javascript" data-module-id="./chunk-confetti.js" data-src="https://github.githubassets.com/assets/chunk-confetti-ef51d9bb.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-zkYZSjUFqSifB+Lt76jclFMrfqpcPqevT801RZcoBNCZHRTBKcFrW9OyJoPOzKFv+fZVDRnqdqGsuIv5KOIgZg==" type="application/javascript" data-module-id="./chunk-contributions-spider-graph.js" data-src="https://github.githubassets.com/assets/chunk-contributions-spider-graph-ce46194a.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-6j/oSF+kbW+yetNPvI684VzAu9pzug6Vj2h+3u1LdCuRhR4jnuiHZfeQKls3nxcT/S3H+oIt7FtigE/aeoj+gg==" type="application/javascript" data-module-id="./chunk-drag-drop.js" data-src="https://github.githubassets.com/assets/chunk-drag-drop-ea3fe848.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-VSSd+Yzi2iMS+pibY6hD/WdypxAEdob5F2RMKxuKcAHS2EpFYJPeTXoVxt0NXg03tfj2dka2mEtHS+vjpYSaDw==" type="application/javascript" data-module-id="./chunk-edit-hook-secret-element.js" data-src="https://github.githubassets.com/assets/chunk-edit-hook-secret-element-55249df9.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-N+ziqJjVMfWiqeVHdayDHpNRlG5HsF+cgV+pFnMDoTJuvBzgw+ndsepe4NcKAxIS3WMvzMaQcYmd2vrIaoAJVg==" type="application/javascript" data-module-id="./chunk-edit.js" data-src="https://github.githubassets.com/assets/chunk-edit-37ece2a8.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-aiqMIGGZGo8AQMjcoImKPMTsZVVRl6htCSY7BpRmpGPG/AF+Wq+P/Oj/dthWQOIk9cCNMPEas7O2zAR6oqn0tA==" type="application/javascript" data-module-id="./chunk-emoji-picker-element.js" data-src="https://github.githubassets.com/assets/chunk-emoji-picker-element-6a2a8c20.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-ejCT9r9E93nir+wK3PibZdMK0J3VXEkbwlgdnOnaUNoiJDI60BMtFt1QwjMU/rLXcjnH0xvgVFINGBFkzvTmRw==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-7a3093f6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-rLdDFAJkSow9YL/I6cWs9Nx790rbDALMvJZ90DQfolTEzxyzh7vEYdM2CrWeCoAaC+aoMQI2btzMFlZ43l5cGA==" type="application/javascript" data-module-id="./chunk-filter-input.js" data-src="https://github.githubassets.com/assets/chunk-filter-input-acb74314.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Z1wcyOFQHzyMSPqp5DLKrobr3DN2Q6Dz31cfPtw4b2vPs9PX0PrxyDXHpTbIlcZ9qT1M1BNAypHKKw8Lp6Yx/Q==" type="application/javascript" data-module-id="./chunk-insights-graph.js" data-src="https://github.githubassets.com/assets/chunk-insights-graph-675c1cc8.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-4iRI95LO0kKcZLWUoOzqI6w8IVGppDVluR4dL7yyz8zgBu/7JAib0MkRN5LUVxXv0KIT6mQ2m5jbKa1NeZoD5A==" type="application/javascript" data-module-id="./chunk-invitations.js" data-src="https://github.githubassets.com/assets/chunk-invitations-e22448f7.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Dhn0P9aANkDPzMxpqETLGel8ELkO93wrLFrMnEOSg8DguOxR7UNY1MyL3lexSVWo/ZZvme3kcWTaM6gw/DJW1w==" type="application/javascript" data-module-id="./chunk-jump-to.js" data-src="https://github.githubassets.com/assets/chunk-jump-to-0e19f43f.js"></script>
@@ -44,17 +45,17 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-Lo0j1owPfYM0txt85KwGzF1PQJLvLFGbRJoASd5ZKMQAV9ZSDg5bVm5UWBAz7glGzw1pkiUD2bCMs2wqyf+CEA==" type="application/javascript" data-module-id="./chunk-notification-list-focus.js" data-src="https://github.githubassets.com/assets/chunk-notification-list-focus-2e8d23d6.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-ma0OOy3nj0c1cqBx0BkcmIFsLqcSZ+MIukQxyEFM/OWTzZpG+QMgOoWPAHZz43M6fyjAUG1jH6c/6LPiiKPCyw==" type="application/javascript" data-module-id="./chunk-profile-pins-element.js" data-src="https://github.githubassets.com/assets/chunk-profile-pins-element-99ad0e3b.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-/kPLzWIe41nxla5A+wcKKPIw4xiAsuITdjbXGVCycmUYnADfCids8FdV+TCA68gr4jAhKIws7flLpL12MoouBA==" type="application/javascript" data-module-id="./chunk-readme-toc-element.js" data-src="https://github.githubassets.com/assets/chunk-readme-toc-element-fe43cbcd.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-F0E2A5YYSz+7eA/RyQ/vYtJzeK2sjNyyneVBqru/CPoRXGBiAcJ2tpN2MWLxkNCqirt88h/BMCAF/7YTZ2qZJA==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-17413603.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-Zii9oRdZ6q2QDNjL5A+me7jwJjMLvs1NiQNHmajUZnn4t9shcBDb4F8l/PQZW26eYfe5065oM7lIOSmbMinA7Q==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-6628bda1.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-nesU0auizp1y0FhtbdzngFVjBVsBEIk/VIVbhC+LcHpGJltFDE7hGwjT8EAbOK5YXTC2cNmheObIukXFtQBtZw==" type="application/javascript" data-module-id="./chunk-ref-selector.js" data-src="https://github.githubassets.com/assets/chunk-ref-selector-9deb14d1.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-Pdw73fp9TN1At4AjDI1042MNWNj/i0OczklFSWkHaUt+d9P1ZlXV/Msu3rHncrs6xRca2WznxDWlgYRsPRyP1w==" type="application/javascript" data-module-id="./chunk-responsive-underlinenav.js" data-src="https://github.githubassets.com/assets/chunk-responsive-underlinenav-3ddc3bdd.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-UUeOf6fdSNCh5PEil2eqo9JMci+9FbJ2YdzZ1rE8fFMYtanaPRRJSidxpPbnl16jxAuQo0QzosPRMKbiFuN0sQ==" type="application/javascript" data-module-id="./chunk-runner-groups.js" data-src="https://github.githubassets.com/assets/chunk-runner-groups-51478e7f.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-tk76eoSLUqXSVZ8ANzPprrOImFIV1zQ/VBV+WzG8ZjZpVPH8cLkMH/ur5HJB1lxx9/yo+V2wjDF96t4qfUwZLA==" type="application/javascript" data-module-id="./chunk-severity-calculator-element.js" data-src="https://github.githubassets.com/assets/chunk-severity-calculator-element-b64efa7a.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-fIq9Mn7jY/bHQXnsmh+VejpDnaO+d/FDxsp+4CuZtdNLrLuO+dQCjh+m6Yd8GCYD2Cy6DWbCEyM+mH2dkB2H9A==" type="application/javascript" data-module-id="./chunk-sortable-behavior.js" data-src="https://github.githubassets.com/assets/chunk-sortable-behavior-7c8abd32.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-vgHJEmEJxNmHucGbVY8bEUoOYo5/ZwpQ69rU8Dld89daWJ54uad9lNptxq32F8pnbHhdngw9lohNEbMbjmj5AQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-be01c912.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-a+Pr9qPUoA3j8O0EiWfWwxWH4ZiB1fweLkYrjYlvyy/SeJbcjR1B4UyYjypFb9kvoy7I2bwXU9ctjZInmlyBXg==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-6be3ebf6.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-SLqYSMMqthFrVCoXJeZhRyCtWXUsJCUHhj+FJ+bQaBxPTNh+1X0WxCX8u1KQF9eGovmnZUGLEFbUI8PpXhUTXQ==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-48ba9848.js"></script>
   
-  <script crossorigin="anonymous" defer="defer" integrity="sha512-bS6dQhaUfxb3rXSLuEN+7HlkA3TzzfxqBkaSQaoSZLzje7r3H26uID+7rfjxpW10uj91kGL1n6uCh3JXO4+t5g==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-6d2e9d42.js"></script>
-<script crossorigin="anonymous" defer="defer" integrity="sha512-LuxBgyY2ZOF1Yi1Hz1+o0TMTHvhTWdE1RwYP0dEg+O8Hy9Y34bM5U9IWzvMBA2v/JRF4wKCE+HPc72tAvINZOw==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-2eec4183.js"></script>
+  <script crossorigin="anonymous" defer="defer" integrity="sha512-bAU72DmcntUQKwnKZyoQCkl2wcaygOlbCdP+ZxAHch45lunUe4DmiTzCRc+NPbeOD5wlLrh3ctxOpx+v0cxvxg==" type="application/javascript" src="https://github.githubassets.com/assets/repositories-6c053bd8.js"></script>
+<script crossorigin="anonymous" defer="defer" integrity="sha512-BEvrrs0cYO23CqEdMrQjKZiSHL/ygrW+DYh8YePYDGDvnl6xwSQpSE+iaXDvyE6XMDjC55bPX0A7EfaWTEUIAQ==" type="application/javascript" src="https://github.githubassets.com/assets/diffs-044bebae.js"></script>
 
   <meta name="viewport" content="width=device-width">
   
@@ -99,7 +100,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="07D0:0C6C:6EB3D4:AB3256:60C21AF3" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4de7b7ceb8781806eb5f67d01f869699a5999ea1bd3bfe6a9bb2e67bdf9d490f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwN0QwOjBDNkM6NkVCM0Q0OkFCMzI1Njo2MEMyMUFGMyIsInZpc2l0b3JfaWQiOiIxMTA0MDI0OTk1NzgyMzM1MjE5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="f6fc3b4b26c1a72ad8c32cb92a502e1a4ee0188c53be4c676c31ac9f9d171a97" data-pjax-transient="true"/>
+  <meta name="request-id" content="0411:3ED4:2D0674:4185E4:60CC5E55" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4054a8190051bcf5eb28a6df1b132894151c0a7b9bf74fd0c4e01e4dee702865" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDExOjNFRDQ6MkQwNjc0OjQxODVFNDo2MENDNUU1NSIsInZpc2l0b3JfaWQiOiI5MTE0MDYyMjAwMjE3ODIwNzU3IiwicmVnaW9uX2VkZ2UiOiJzZWEiLCJyZWdpb25fcmVuZGVyIjoic2VhIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="09a38d8c44fd207678c66fc1fd86133ba336fa5703221da8647d59198af03c63" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:200124653" data-pjax-transient>
 
@@ -135,12 +136,12 @@
       <meta name="expected-hostname" content="github.com">
 
 
-    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,NEW_ICONS_EXPERIMENT,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
+    <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS,AUTOCOMPLETE_EMOJIS_IN_MARKDOWN_EDITOR">
 
-  <meta http-equiv="x-pjax-version" content="f2458f25dc1ea53a47635237c19b8e61cef8bb1a38b32fa6b26dc6fe471b28a6">
+  <meta http-equiv="x-pjax-version" content="20be0c7b57d453dfbd46c92a6793591164cf5b6ecfbc4a63d1d92759aa224d91">
   
 
-      <link crossorigin="anonymous" media="all" integrity="sha512-SJebH5QjzGhZrGEMtR88PUyQZLdJeRrRapfYU49gwmLJIFQb4G9PKHo0ZmHOmPy8nwLr6h1iuc+A50y7B38N6A==" rel="stylesheet" href="https://github.githubassets.com/assets/site-48979b1f9423cc6859ac610cb51f3c3d.css" />
+      <link crossorigin="anonymous" media="all" integrity="sha512-cf8Vh7kAWS+7gVS00gNqLJTzqbYA5C5pQAe+zQ9hC39imrLnjUjGoSlqZ8rQTFuQhB9QzzR4vb40P+aDfomMcg==" rel="stylesheet" href="https://github.githubassets.com/assets/site-71ff1587b900592fbb8154b4d2036a2c.css" />
 
 
 
@@ -162,7 +163,7 @@
 
   <link rel="manifest" href="/manifest.json" crossOrigin="use-credentials">
 
-<meta name="enabled-homepage-translation-languages" content="ko">
+<meta name="enabled-homepage-translation-languages" content="">
 
   </head>
 
@@ -191,20 +192,12 @@
           </div>
 
         <div class="d-flex flex-items-center">
-              <nux-signup-candidates
-                data-attribute-name="href"
-                data-candidate-url="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fstrukturart%2Frss-reader%2Fblob%2Fmaster%2Fimages%2Fimage-4.png&amp;source=header"
-                data-action="loaded:nux-signup-candidates#determineSignupAction"
-                
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fstrukturart%2Frss-reader%2Fblob%2Fmaster%2Fimages%2Fimage-4.png&amp;source=header"
+                class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b19fc4d935ccc73e03b7f572ea78da5304b16926e7cb4a85d5912e8ad8641f90"
               >
-                <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fstrukturart%2Frss-reader%2Fblob%2Fmaster%2Fimages%2Fimage-4.png&amp;source=header"
-                  class="d-inline-block d-lg-none f5 color-text-white no-underline border color-border-tertiary rounded-2 px-2 py-1 mr-3 mr-sm-5"
-                  data-target="nux-signup-candidates.signupAction"
-                  data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b19fc4d935ccc73e03b7f572ea78da5304b16926e7cb4a85d5912e8ad8641f90"
-                >
-                  Sign&nbsp;up
-                </a>
-              </nux-signup-candidates>
+                Sign&nbsp;up
+              </a>
 
           <button class="btn-link d-lg-none mt-1 js-details-target" type="button" aria-label="Toggle navigation" aria-expanded="false">
             <svg height="24" class="octicon octicon-three-bars color-text-white" viewBox="0 0 16 16" version="1.1" width="24" aria-hidden="true"><path fill-rule="evenodd" d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z"></path></svg>
@@ -350,7 +343,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="eXGFkE2diBfsvCfqlLwfofLBSv6L7aIpF3Da1L1SPgW1h9O12CS4QlfD1CVidVqCmJBImbd67RVhesWC1TBI6Q==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="QMyDDz/wRde4stezcJnQEfjUv+Ziz4AXd9DYxBkhRBiwTXo6KvUN0Q8TE0NKA9MxxBFPNN/YEX4ztH5iZtTVVw==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -510,21 +503,13 @@
           data-ga-click="(Logged out) Header, clicked Sign in, text:sign-in">
           Sign in
         </a>
-            <nux-signup-candidates
-              data-attribute-name="href"
-              data-candidate-url="/join_next?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fstrukturart%2Frss-reader%2Fblob%2Fmaster%2Fimages%2Fimage-4.png&amp;source=header"
-              data-action="loaded:nux-signup-candidates#determineSignupAction"
-              
+            <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fstrukturart%2Frss-reader%2Fblob%2Fmaster%2Fimages%2Fimage-4.png&amp;source=header"
+              class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
+              data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c978af7fefd7737d06803bff9fe4a2a7f8e23c02ec039d8d5fb0a3210a490cca"
+              data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/strukturart/rss-reader/blob/master/images/image-4.png;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ea9b3bacb1f20f4e4f0797d02334f08dd6a13c538ec998a6b534a76d8c186948"
             >
-              <a href="/join?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2Fstrukturart%2Frss-reader%2Fblob%2Fmaster%2Fimages%2Fimage-4.png&amp;source=header"
-                class="HeaderMenu-link flex-shrink-0 d-inline-block no-underline border color-border-tertiary rounded px-2 py-1"
-                data-target="nux-signup-candidates.signupAction"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="c978af7fefd7737d06803bff9fe4a2a7f8e23c02ec039d8d5fb0a3210a490cca"
-                data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/strukturart/rss-reader/blob/master/images/image-4.png;ref_cta:Sign up;ref_loc:header logged out&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ea9b3bacb1f20f4e4f0797d02334f08dd6a13c538ec998a6b534a76d8c186948"
-              >
-                Sign up
-              </a>
-            </nux-signup-candidates>
+              Sign up
+            </a>
       </div>
     </div>
   </div>
@@ -788,3 +773,11 @@
   </body>
 </html>
 
+
+<style>
+  @media (prefers-reduced-motion: no-preference) {
+    html {
+      scroll-behavior: smooth;
+    }
+  }
+</style>

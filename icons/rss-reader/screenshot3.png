@@ -16,15 +16,15 @@
 
   <link crossorigin="anonymous" media="all" integrity="sha512-J/5cWm5rrVuxkSgldaK1emf5j30Bs5mRgu0uhuHrG+iwf9mD2LOrkQ32SyN5PADLWzkSDxLS3bW/ScsiM44wzw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-27fe5c5a6e6bad5bb191282575a2b57a.css" />
   
-    <link crossorigin="anonymous" media="all" integrity="sha512-W0Cb3tYIxIb58LtOmiY++k5siW1IkzkqaHOXMJpsrZBWMGoaw8M3r5f7RRxa1heGJEDanaTJmAqCJUoMytKNxA==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-5b409bded608c486f9f0bb4e9a263efa.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-XE+m6dc0fAl3BNK4ug9u5sDqEOJVn7X08Be72MAev/184qzzADPayYeotnusdV85Xtx1IgWIskcb2/ACMrO9UQ==" rel="stylesheet" href="https://github.githubassets.com/assets/behaviors-5c4fa6e9d7347c097704d2b8ba0f6ee6.css" />
     
     
     
-    <link crossorigin="anonymous" media="all" integrity="sha512-EnDnq6YuBztKK9q7BMa36P7tCZ9aJjapqgWDV9KVM2x1VM7/UVvqLbvqTHzPCM21a4ZF+MPkpA7Z5wxmy8U6aw==" rel="stylesheet" href="https://github.githubassets.com/assets/github-1270e7aba62e073b4a2bdabb04c6b7e8.css" />
+    <link crossorigin="anonymous" media="all" integrity="sha512-uFHJKAbmOTdELQQnos5uaF32WiyMwkZWP5sqxLrFF8bNjaecXrxquNGxSRQYZLkYkvBsm/9nMepy++uaB3WakQ==" rel="stylesheet" href="https://github.githubassets.com/assets/github-b851c92806e63937442d0427a2ce6e68.css" />
 
   <script crossorigin="anonymous" defer="defer" integrity="sha512-CzeY4A6TiG4fGZSWZU8FxmzFFmcQFoPpArF0hkH0/J/S7UL4eed/LKEXMQXfTwiG5yEJBI+9BdKG8KQJNbhcIQ==" type="application/javascript" src="https://github.githubassets.com/assets/environment-0b3798e0.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-czQZrI8Ar39Oil36WxqNfOBo7pZqlK1CUHWZ8CF9jMxyawHGQ+lKiPtd25OvoNHZF69LfWPpafuwqxcfiG/iYA==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-frameworks-733419ac.js"></script>
-    <script crossorigin="anonymous" defer="defer" integrity="sha512-YOzkTPNBhsGBHTWNXcjLCxYM3ANDGkp2gejU1oLAxIG4g8VAZJlFYJX2Eo//GCdStAeiby9Y2FecMxmDQwj+Ow==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-60ece44c.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-US/IQhvG9ej4VfjEAZn++Hu2XUgXKUo/3YypnqjP1kjNCWzxGJyNw6JSFeeTcSI5KCDCi/iDdXbzi7i4TA47SQ==" type="application/javascript" src="https://github.githubassets.com/assets/chunk-vendor-512fc842.js"></script>
   
   <script crossorigin="anonymous" defer="defer" integrity="sha512-Nof93xeMudma5NoKgMI6z0Fk9c1wmbaj6MOpEdryrLvrJOIFcqJ8zNtpX1tEZ3ZwMrMZ5uO+MWgYUUHQnft6HA==" type="application/javascript" src="https://github.githubassets.com/assets/behaviors-3687fddf.js"></script>
   
@@ -59,6 +59,7 @@
     <script crossorigin="anonymous" defer="defer" integrity="sha512-nKa3UdA2O7Ve4Jn24gaB20yUfJvS7wlnd8Q8C+iWD8i2tXLgaKemDWkLeexeQdrs+an98FCl5fOiy0J+izn+tQ==" type="application/javascript" data-module-id="./chunk-three.module.js" data-src="https://github.githubassets.com/assets/chunk-three.module-9ca6b751.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-WK8VXw3lfUQ/VRW0zlgKPhcMUqH0uTnB/KzePUPdZhCm/HpxfXXHKTGvj5C0Oex7+zbIM2ECzULbtTCT4ug3yg==" type="application/javascript" data-module-id="./chunk-toast.js" data-src="https://github.githubassets.com/assets/chunk-toast-58af155f.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-1vSZvwpr106s8wjSNFNFGVmFT2E4YjI2N8k6JqiSb28GGYMkEJUhveotmvB00Z4bQZM61ZgvWcXax1U3M48gLQ==" type="application/javascript" data-module-id="./chunk-tweetsodium.js" data-src="https://github.githubassets.com/assets/chunk-tweetsodium-d6f499bf.js"></script>
+    <script crossorigin="anonymous" defer="defer" integrity="sha512-Bfdp/SnnmjBzjVCUmgPLoPD2rJY5zExYOF+BrA1f1p7Nu+XSiOTLynIGofdvypysG2EC6IHMd8ghEaBzDasaAw==" type="application/javascript" data-module-id="./chunk-unveil.js" data-src="https://github.githubassets.com/assets/chunk-unveil-05f769fd.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-UOFNW/xcxynplVfC8Y3fQdFFiasmugYUUHU4N90G8sqBZGL1yR37yjVakxV8/FV5deBALx9OQMBoiba/3OHGDA==" type="application/javascript" data-module-id="./chunk-user-status-submit.js" data-src="https://github.githubassets.com/assets/chunk-user-status-submit-50e14d5b.js"></script>
     <script crossorigin="anonymous" defer="defer" integrity="sha512-cKu/+X7gT+WVH4sXKt0g3G77bfQfcgwurRObM+dt8XylPm9eEWI+/aWKhVab6VsYuvvuI5BTriKXhXfJwaSXdQ==" type="application/javascript" data-module-id="./chunk-webgl-warp.js" data-src="https://github.githubassets.com/assets/chunk-webgl-warp-70abbff9.js"></script>
   
@@ -108,7 +109,7 @@
   <link rel="assets" href="https://github.githubassets.com/">
   
 
-  <meta name="request-id" content="0411:4F20:450C5A:73CB2C:60EEDE04" data-pjax-transient="true"/><meta name="html-safe-nonce" content="b575bfb78c0c7d73f24d8fb00b7b399845a0ec0650cf500e288f3baf0abd23eb" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNDExOjRGMjA6NDUwQzVBOjczQ0IyQzo2MEVFREUwNCIsInZpc2l0b3JfaWQiOiI2OTEwNjIxMjk1OTI2MjM4NzI0IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="508a1d169d9564b63ef485446858d67371ca09a7ae8469fddb53d120bbecf9e9" data-pjax-transient="true"/>
+  <meta name="request-id" content="0791:0913:C06F97:160ADC3:60F198EB" data-pjax-transient="true"/><meta name="html-safe-nonce" content="ec05f27fcf0927e919ef94221403b7e04c52a8bb2e8a71f9a0993b3bf9a4dde0" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiIwNzkxOjA5MTM6QzA2Rjk3OjE2MEFEQzM6NjBGMTk4RUIiLCJ2aXNpdG9yX2lkIjoiMzQ0ODE0MzQyODE0OTMxMTc5IiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="859b3cfe3af143fd98d65dc82dad74c78a6a16c8e39d4c478a0b416b2f9c1bef" data-pjax-transient="true"/>
 
     <meta name="hovercard-subject-tag" content="repository:200124653" data-pjax-transient>
 
@@ -146,10 +147,10 @@
 
     <meta name="enabled-features" content="MARKETPLACE_PENDING_INSTALLATIONS">
 
-  <meta http-equiv="x-pjax-version" content="6029684a82771df8d100e62e9f091a0b19c9d6feace6ac047fa51fbecce899e5">
+  <meta http-equiv="x-pjax-version" content="f1a3aa31d818934838be970a2485d3803ed68ab09f425c30d3abb588b9749995">
   
 
-      <link crossorigin="anonymous" media="all" integrity="sha512-9VZfgQwCxrJhvufKpm1CPsnTMERAssVLE9fqEmSG4OKHXDzju8oKGWtXGosGsLCPUBbtsOcVLhv5nGI3LKI6hA==" rel="stylesheet" href="https://github.githubassets.com/assets/site-f5565f810c02c6b261bee7caa66d423e.css" />
+      <link crossorigin="anonymous" media="all" integrity="sha512-xKlHrxXkLrFusr+2P9Ae2F0YtsZvjBfE3IKv4WLV4U0LcYhUckcvqxH0cnqkLPQ5spV7b898sNySOqmxD43anQ==" rel="stylesheet" href="https://github.githubassets.com/assets/site-c4a947af15e42eb16eb2bfb63fd01ed8.css" />
 
 
 
@@ -355,7 +356,7 @@
             spellcheck="false"
             autocomplete="off"
           >
-          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="NMvpSJEe1FJAbB6SWIs9LGCNLUHzFmyPWAb+Mw8p7JuG8k7pyg3iPcPVuevObKl28kIikI0E5dCgW+DqwoMeWQ==" />
+          <input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="i12wwpyTSvLzuWOkNU+YnnNYhC9yeEAu4cvAC2d1KJx7skbxY3aB0N3yeuIN5SYmm6jr0qryKmq9PARo1jAf3A==" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
               <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -520,7 +521,7 @@
   <div style="width: 300px" data-view-component="true" class="Popover-message Box color-text-primary p-4 mt-2 mx-auto text-left color-shadow-large">
     <h4 data-view-component="true" class="color-text-primary mb-2">                Sign in to GitHub
 </h4>
-                    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="nnc5F0Sdpdr1Nf1ChKHW3CzaMNaTZph8vymtshxkjb3clcS7fM2hsoRuomb4mEZvGn6KjTl6N7Hhf9PG09DWkQ==" />  <label for="login_field">
+                    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/session" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="cNH4/exJt9YEclt8uZ2RYjjbjLTe9jTcKudXIYoaY+ttA4FNeHSqq/zGzo1n+UePfwOnS1678lUPP0iFXIcT8A==" />  <label for="login_field">
     Username or email address
   </label>
   <input type="text" name="login" id="login_field" class="form-control input-block" autocapitalize="off" autocorrect="off" autocomplete="username" autofocus="autofocus" />
@@ -537,9 +538,9 @@
 <input type="hidden" name="allow_signup" id="allow_signup" class="form-control" />
 <input type="hidden" name="client_id" id="client_id" class="form-control" />
 <input type="hidden" name="integration" id="integration" class="form-control" />
-<input class="form-control" type="text" name="required_field_70f1" hidden="hidden" />
-<input class="form-control" type="hidden" name="timestamp" value="1626267140754" />
-<input class="form-control" type="hidden" name="timestamp_secret" value="85f7b8f957fdff972d1880d18177a19cb456986292b7a65b7cf2d0269808d25c" />
+<input class="form-control" type="text" name="required_field_6529" hidden="hidden" />
+<input class="form-control" type="hidden" name="timestamp" value="1626446059672" />
+<input class="form-control" type="hidden" name="timestamp_secret" value="3d6506b17dcaf088bdb577f2aa915392bad095fcdcd2068340f37bbf72292cde" />
 
 
     <input type="submit" name="commit" value="Sign in" class="btn btn-primary btn-block" data-disable-with="Signing in…" />
@@ -663,7 +664,7 @@
   <div class="container-xl p-responsive">
     <div class="d-flex flex-wrap py-5 mb-5">
       <div class="col-12 col-lg-4 mb-5">
-        <a href="/" data-ga-click="Footer, go to home, text:home" class="color-text-primary" aria-label="Go to GitHub homepage">
+        <a href="/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to home&quot;,&quot;label&quot;:&quot;text:home&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9c846dab529ece2febe837e907ad5cc17edd487a51e4b48dff1c430413601132" class="color-text-primary" aria-label="Go to GitHub homepage">
           <img class="footer-logo-mktg" src="https://github.githubassets.com/images/modules/site/icons/footer/github-logo.svg" width="84" height="30" loading="lazy" decoding="async" alt="GitHub">
         </a>
 
@@ -672,48 +673,48 @@
       <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-lg-0 pl-lg-4">
         <h2 class="h5 mb-3 text-mono color-text-tertiary text-normal">Product</h2>
         <ul class="list-style-none color-text-secondary f5">
-          <li class="lh-condensed mb-3"><a href="/features" data-ga-click="Footer, go to features, text:features" class="Link--secondary">Features</a></li>
-          <li class="lh-condensed mb-3"><a href="/security" data-ga-click="Footer, go to security, text:security" class="Link--secondary">Security</a></li>
-          <li class="lh-condensed mb-3"><a href="/team" data-ga-click="Footer, go to team, text:team" class="Link--secondary">Team</a></li>
-          <li class="lh-condensed mb-3"><a href="/enterprise" data-ga-click="Footer, go to enterprise, text:enterprise" class="Link--secondary">Enterprise</a></li>
-          <li class="lh-condensed mb-3"><a href="/customer-stories?type=enterprise" data-ga-click="Footer, go to customer stories, text:customer stories" class="Link--secondary">Customer stories</a></li>
-          <li class="lh-condensed mb-3"><a href="/readme" data-ga-click="Footer, go to the readme project, text:the readme project" class="Link--secondary">The ReadME Project</a></li>
-          <li class="lh-condensed mb-3"><a href="/pricing" data-ga-click="Footer, go to pricing, text:pricing" class="Link--secondary">Pricing</a></li>
-          <li class="lh-condensed mb-3"><a href="https://resources.github.com" data-ga-click="Footer, go to resources, text:resources" class="Link--secondary">Resources</a></li>
-          <li class="lh-condensed mb-3"><a href="https://github.com/github/roadmap" data-ga-click="Footer, go to roadmap, text:roadmap" class="Link--secondary">Roadmap</a></li>
+          <li class="lh-condensed mb-3"><a href="/features" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to features&quot;,&quot;label&quot;:&quot;text:features&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="446f66061e685dcd0b23f042f33deacdb4388f076a6f3792b3014b62a0e9bb71" class="Link--secondary">Features</a></li>
+          <li class="lh-condensed mb-3"><a href="/security" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to security&quot;,&quot;label&quot;:&quot;text:security&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1269bab1830fab4e4bc012392aa0d8334bc97f79158b9c20aa1049e3a55e7d16" class="Link--secondary">Security</a></li>
+          <li class="lh-condensed mb-3"><a href="/team" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to team&quot;,&quot;label&quot;:&quot;text:team&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="13860784cd6db377edf6848276717ee55b25640cf61203aefba2dd47c3d1c96e" class="Link--secondary">Team</a></li>
+          <li class="lh-condensed mb-3"><a href="/enterprise" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to enterprise&quot;,&quot;label&quot;:&quot;text:enterprise&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8de97d6b82e47ff3cfdbd43229cb8aa65fc6639982721ba40fa2fac9d3aad93e" class="Link--secondary">Enterprise</a></li>
+          <li class="lh-condensed mb-3"><a href="/customer-stories?type=enterprise" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to customer stories&quot;,&quot;label&quot;:&quot;text:customer stories&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="975a3ac7645c7a6685ae11a6f5983cef1fae05697d8255421c360c0e7888fbe7" class="Link--secondary">Customer stories</a></li>
+          <li class="lh-condensed mb-3"><a href="/readme" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to the readme project&quot;,&quot;label&quot;:&quot;text:the readme project&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="13bb31533bda5e210401d0c18491e597e06d13db224563a9034b08c61499faae" class="Link--secondary">The ReadME Project</a></li>
+          <li class="lh-condensed mb-3"><a href="/pricing" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to pricing&quot;,&quot;label&quot;:&quot;text:pricing&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="03163f5af992f4476c101ed54605448102e8bf20b34924d932f20e33e231f5b9" class="Link--secondary">Pricing</a></li>
+          <li class="lh-condensed mb-3"><a href="https://resources.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to resources&quot;,&quot;label&quot;:&quot;text:resources&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8e4e8f8805f917c1fda7b4e94933ac437431deab6b98f68aeea0ed22db61caed" class="Link--secondary">Resources</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.com/github/roadmap" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to roadmap&quot;,&quot;label&quot;:&quot;text:roadmap&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3f3c406391c64bb25ee51cdcad1bcb78c647cf556281fad61fcbdc1016f31d0a" class="Link--secondary">Roadmap</a></li>
         </ul>
       </div>
       <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
         <h2 class="h5 mb-3 text-mono color-text-tertiary text-normal">Platform</h2>
         <ul class="list-style-none f5">
-          <li class="lh-condensed mb-3"><a href="https://docs.github.com" data-ga-click="Footer, go to api, text:api" class="Link--secondary">Developer API</a></li>
-          <li class="lh-condensed mb-3"><a href="https://partner.github.com/" data-ga-click="Footer, go to partner, text:partner" class="Link--secondary">Partners</a></li>
-          <li class="lh-condensed mb-3"><a href="https://atom.io" data-ga-click="Footer, go to atom, text:atom" class="Link--secondary">Atom</a></li>
-          <li class="lh-condensed mb-3"><a href="https://www.electronjs.org" data-ga-click="Footer, go to electron, text:electron" class="Link--secondary">Electron</a></li>
-          <li class="lh-condensed mb-3"><a href="https://desktop.github.com/" data-ga-click="Footer, go to desktop, text:desktop" class="Link--secondary">GitHub Desktop</a></li>
+          <li class="lh-condensed mb-3"><a href="https://docs.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to api&quot;,&quot;label&quot;:&quot;text:api&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="b4a19f746a93ea3847c843620b3bdf858d4fd8257b814e0e8856efafd97cb919" class="Link--secondary">Developer API</a></li>
+          <li class="lh-condensed mb-3"><a href="https://partner.github.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to partner&quot;,&quot;label&quot;:&quot;text:partner&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a11db0ef884b7f7fc8570925abf0bf3ae184110ca2aec32bd0c46f5869232737" class="Link--secondary">Partners</a></li>
+          <li class="lh-condensed mb-3"><a href="https://atom.io" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to atom&quot;,&quot;label&quot;:&quot;text:atom&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9a35f6aa9e1a7394e3d5cb87bd3e571fe7c78adb350af45c30786e825ce6b9f9" class="Link--secondary">Atom</a></li>
+          <li class="lh-condensed mb-3"><a href="https://www.electronjs.org" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to electron&quot;,&quot;label&quot;:&quot;text:electron&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1409162bc30c4e6c18f34f6f514ad5e6c11f3b00a0687d726732dd8bb126deea" class="Link--secondary">Electron</a></li>
+          <li class="lh-condensed mb-3"><a href="https://desktop.github.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to desktop&quot;,&quot;label&quot;:&quot;text:desktop&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7be16d78954ad56fcacda23307b75c5f999a63e333e272092382a5eb3ae58236" class="Link--secondary">GitHub Desktop</a></li>
         </ul>
       </div>
       <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
         <h2 class="h5 mb-3 text-mono color-text-tertiary text-normal">Support</h2>
         <ul class="list-style-none f5">
           <li class="lh-condensed mb-3"><a data-ga-click="Footer, go to help, text:Docs" class="Link--secondary " href="https://docs.github.com">Docs</a></li>
-          <li class="lh-condensed mb-3"><a href="https://github.community" data-ga-click="Footer, go to community, text:community" class="Link--secondary">Community Forum</a></li>
-          <li class="lh-condensed mb-3"><a href="https://services.github.com/" data-ga-click="Footer, go to professional services, text:professional services" class="Link--secondary">Professional Services</a></li>
-          <li class="lh-condensed mb-3"><a href="https://lab.github.com/" data-ga-click="Footer, go to learning lab, text:learning lab" class="Link--secondary">Learning Lab</a></li>
-          <li class="lh-condensed mb-3"><a href="https://www.githubstatus.com/" data-ga-click="Footer, go to status, text:status" class="Link--secondary">Status</a></li>
-          <li class="lh-condensed mb-3"><a href="https://support.github.com" data-ga-click="Footer, go to contact, text:contact" class="Link--secondary">Contact GitHub</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.community" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to community&quot;,&quot;label&quot;:&quot;text:community&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="1d3edaa601afd9921274990fb0dc6b6407fe1fefda1c118fdaa0b9e2cdd3cb20" class="Link--secondary">Community Forum</a></li>
+          <li class="lh-condensed mb-3"><a href="https://services.github.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to professional services&quot;,&quot;label&quot;:&quot;text:professional services&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d48cb4c9ce60e700436fee72903345588db6216e9074e1ff6e78739dc105aac2" class="Link--secondary">Professional Services</a></li>
+          <li class="lh-condensed mb-3"><a href="https://lab.github.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to learning lab&quot;,&quot;label&quot;:&quot;text:learning lab&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7fcc4bce4ca4fc99c5a2dd23d1871052f782d787b50f1f8c206aea9fd8cec363" class="Link--secondary">Learning Lab</a></li>
+          <li class="lh-condensed mb-3"><a href="https://www.githubstatus.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to status&quot;,&quot;label&quot;:&quot;text:status&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="65672db19c4dc86ce6bb373aff7a2c1cb625418249a167420d103486cabe4fd6" class="Link--secondary">Status</a></li>
+          <li class="lh-condensed mb-3"><a href="https://support.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to contact&quot;,&quot;label&quot;:&quot;text:contact&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e9372ec4286a3674d80964dd2dfe378b434b04ab68b3af4067fbf329ab2d31f0" class="Link--secondary">Contact GitHub</a></li>
         </ul>
       </div>
       <div class="col-6 col-sm-3 col-lg-2 mb-6 mb-md-2 pr-3 pr-md-0 pl-md-4">
         <h2 class="h5 mb-3 text-mono color-text-tertiary text-normal">Company</h2>
         <ul class="list-style-none f5">
-          <li class="lh-condensed mb-3"><a data-ga-click="Footer, go to about, text:about" class="Link--secondary " href="https://github.com/about">About</a></li>
-          <li class="lh-condensed mb-3"><a href="https://github.blog" data-ga-click="Footer, go to blog, text:blog" class="Link--secondary">Blog</a></li>
-          <li class="lh-condensed mb-3"><a href="/about/careers" data-ga-click="Footer, go to careers, text:careers" class="Link--secondary">Careers</a></li>
-          <li class="lh-condensed mb-3"><a href="/about/press" data-ga-click="Footer, go to press, text:press" class="Link--secondary">Press</a></li>
-          <li class="lh-condensed mb-3"><a href="/about/diversity" data-ga-click="Footer, go to diversity, text:Inclusion" class="Link--secondary">Inclusion</a></li>
-          <li class="lh-condensed mb-3"><a href="https://socialimpact.github.com/" data-ga-click="Footer, go to social impact, text:social impact" class="Link--secondary">Social Impact</a></li>
-          <li class="lh-condensed mb-3"><a href="https://shop.github.com" data-ga-click="Footer, go to shop, text:shop" class="Link--secondary">Shop</a></li>
+          <li class="lh-condensed mb-3"><a data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to about&quot;,&quot;label&quot;:&quot;text:about&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="2305852a68c083ee281d94787c3b66fec87ce21a9f0a6c6c1d2bddf4fc5ad82e" class="Link--secondary" href="https://github.com/about">About</a></li>
+          <li class="lh-condensed mb-3"><a href="https://github.blog" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to blog&quot;,&quot;label&quot;:&quot;text:blog&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d1f311096af02b2227cc6eefbeae584a55e55d34cf44d5ddec8e22e528189fb7" class="Link--secondary">Blog</a></li>
+          <li class="lh-condensed mb-3"><a href="/about/careers" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to careers&quot;,&quot;label&quot;:&quot;text:careers&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dc7aa732143c0489adcdc29401ba37efed7de845abef00f58b9d078c2a437bfd" class="Link--secondary">Careers</a></li>
+          <li class="lh-condensed mb-3"><a href="/about/press" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to press&quot;,&quot;label&quot;:&quot;text:press&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b34a7b4e6705fa66ec1fbe780115ef23abf90c8991f2f4da636dd6b546b7697" class="Link--secondary">Press</a></li>
+          <li class="lh-condensed mb-3"><a href="/about/diversity" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to diversity&quot;,&quot;label&quot;:&quot;text:Inclusion&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a41e3b242d92fe224ad6620ef251b09e039c2c62176dfadca76f10db22687e6e" class="Link--secondary">Inclusion</a></li>
+          <li class="lh-condensed mb-3"><a href="https://socialimpact.github.com/" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to social impact&quot;,&quot;label&quot;:&quot;text:social impact&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8d4fa61956f15c0e4abce3a85d3b5a1ef772e1c8dd8ea0933846bd4fed76b912" class="Link--secondary">Social Impact</a></li>
+          <li class="lh-condensed mb-3"><a href="https://shop.github.com" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to shop&quot;,&quot;label&quot;:&quot;text:shop&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5596172543f65159bf1d9ae3318a120e87d93e9965e16e48ae7570a85e8137b0" class="Link--secondary">Shop</a></li>
         </ul>
       </div>
     </div>
@@ -722,31 +723,31 @@
     <div class="container-xl p-responsive f6 py-4 d-sm-flex flex-justify-between flex-row-reverse flex-items-center">
       <ul class="list-style-none d-flex flex-items-center mb-3 mb-sm-0 lh-condensed-ultra">
         <li class="mr-3">
-          <a href="https://twitter.com/github" data-ga-click="Footer, go to Twitter, text:twitter" class="color-gray-4">
+          <a href="https://twitter.com/github" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Twitter&quot;,&quot;label&quot;:&quot;text:twitter&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d038cdad34ff59e92986dea3ce969d419bf1df17da69d39a2de0d6425d7585d3" class="color-gray-4">
             <img src="https://github.githubassets.com/images/modules/site/icons/footer/twitter.svg" height="18" class="d-block" loading="lazy" decoding="async" alt="Twitter icon">
             <span class="sr-only">GitHub on Twitter</span>
           </a>
         </li>
         <li class="mr-3">
-          <a href="https://www.facebook.com/GitHub" data-ga-click="Footer, go to Facebook, text:facebook" class="color-gray-4">
+          <a href="https://www.facebook.com/GitHub" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Facebook&quot;,&quot;label&quot;:&quot;text:facebook&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8d9d8d0a42dedde0d7149af357eb0d3d2aa8b557883418d72b8ae98eeb83d78f" class="color-gray-4">
             <img src="https://github.githubassets.com/images/modules/site/icons/footer/facebook.svg" height="18" class="d-block" loading="lazy" decoding="async" alt="Facebook icon">
             <span class="sr-only">GitHub on Facebook</span>
           </a>
         </li>
         <li class="mr-3">
-          <a href="https://www.youtube.com/github" data-ga-click="Footer, go to YouTube, text:youtube" class="color-gray-4">
+          <a href="https://www.youtube.com/github" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to YouTube&quot;,&quot;label&quot;:&quot;text:youtube&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="10499c231c68aea9468e3e906cd128bc80820793dcad45ee730fe79e3440eed7" class="color-gray-4">
             <img src="https://github.githubassets.com/images/modules/site/icons/footer/youtube.svg" height="16" class="d-block" loading="lazy" decoding="async" alt="YouTube icon">
             <span class="sr-only">GitHub on YouTube</span>
           </a>
         </li>
         <li class="mr-3 flex-self-start">
-          <a href="https://www.linkedin.com/company/github" data-ga-click="Footer, go to Linkedin, text:linkedin" class="color-gray-4">
+          <a href="https://www.linkedin.com/company/github" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Linkedin&quot;,&quot;label&quot;:&quot;text:linkedin&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="27605e4e2b56183529affab3bbf87afc567f6c6044ab620427631c33b063047c" class="color-gray-4">
             <img src="https://github.githubassets.com/images/modules/site/icons/footer/linkedin.svg" height="18" class="d-block" loading="lazy" decoding="async" alt="Linkedin icon">
             <span class="sr-only">GitHub on LinkedIn</span>
           </a>
         </li>
         <li>
-          <a href="https://github.com/github" data-ga-click="Footer, go to github's org, text:github" class="color-gray-4">
+          <a href="https://github.com/github" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to github&#39;s org&quot;,&quot;label&quot;:&quot;text:github&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="622a23be7ecd11e6987690068028487195574d71acc866b146db8b449151a4c5" class="color-gray-4">
             <img src="https://github.githubassets.com/images/modules/site/icons/footer/github-mark.svg" height="20" class="d-block" loading="lazy" decoding="async" alt="GitHub mark">
             <span class="sr-only">GitHub’s organization on GitHub</span>
           </a>
@@ -754,10 +755,10 @@
       </ul>
       <ul class="list-style-none d-flex flex-wrap color-text-secondary">
         <li class="mr-3">&copy; 2021 GitHub, Inc.</li>
-        <li class="mr-3"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-ga-click="Footer, go to terms, text:terms" class="Link--secondary">Terms</a></li>
-        <li class="mr-3"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-ga-click="Footer, go to privacy, text:privacy" class="Link--secondary">Privacy</a></li>
-        <li class="mr-3"><a href="/site-map" data-ga-click="Footer, go to site map, text:site map" class="Link--secondary">Site Map</a></li>
-        <li><a href="/git-guides" data-ga-click="Footer, go to Git Guides, text:What is Git?" class="Link--secondary">What is Git?</a></li>
+        <li class="mr-3"><a href="https://docs.github.com/en/github/site-policy/github-terms-of-service" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to terms&quot;,&quot;label&quot;:&quot;text:terms&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="30ddcedeb084fa61833b97cc422a38f8ae0bf5926fb176eac3d0b2770341eb6d" class="Link--secondary">Terms</a></li>
+        <li class="mr-3"><a href="https://docs.github.com/en/github/site-policy/github-privacy-statement" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to privacy&quot;,&quot;label&quot;:&quot;text:privacy&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d43a90290f3ca6a79bbe12a800499f95f66abc17108c90da3fd79ee581b2ce8" class="Link--secondary">Privacy</a></li>
+        <li class="mr-3"><a href="/site-map" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to site map&quot;,&quot;label&quot;:&quot;text:site map&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3faf7e080ae8a3535d5370889c6c5eebea0d428b54a5da65e35dadb3f9197c46" class="Link--secondary">Site Map</a></li>
+        <li><a href="/git-guides" data-hydro-click="{&quot;event_type&quot;:&quot;analytics.event&quot;,&quot;payload&quot;:{&quot;category&quot;:&quot;Footer&quot;,&quot;action&quot;:&quot;go to Git Guides&quot;,&quot;label&quot;:&quot;text:What is Git?&quot;,&quot;originating_url&quot;:&quot;https://github.com/strukturart/rss-reader/blob/master/images/image-4.png?raw=true&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="486bf35a3cb8a9b65f313c3658157f40bac4201bcfb7de32fb6db5728f235145" class="Link--secondary">What is Git?</a></li>
       </ul>
     </div>
   </div>

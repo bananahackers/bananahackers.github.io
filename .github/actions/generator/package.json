@@ -10,7 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "follow-redirects": "^1.13.0",
+    "follow-redirects": "^1.14.7",
     "fs-extra": "^8.1.0",
     "is-url-superb": "^3.0.0",
     "js-yaml": "^3.13.1"
